@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "jogo-forca",
+  "version": "1.0.0",
+  "description": "- A aplicação apresenta uma dica, informando a quantidade de letras do nome da fruta a ser adivinhada. Veja um exemplo:\r - Ex.: Adivinhe o nome da fruta com 9 letras:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
